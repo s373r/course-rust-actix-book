@@ -12,7 +12,7 @@ Status: 🚧 `[In Progress]`
 
 ## Index
 
-- 🚧 1. Getting Started
+- [✏️ 1. Getting Started](01_getting_started/src/main.rs)
 - 🚧 2. Actor
 - 🚧 3. Address
 - 🚧 4. Context
