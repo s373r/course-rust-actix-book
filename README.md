@@ -14,7 +14,7 @@ Status: 🚧 `[In Progress]`
 
 - [✏️ 1. Getting Started](01_getting_started/src/main.rs)
 - [✏️ 2. Actor](02_actor/src/main.rs)
-- 🚧 3. Address
+- [✏️ 3. Address](03_address/src/main.rs)
 - 🚧 4. Context
 - 🚧 5. Arbiter
 - 🚧 6. SyncArbiter
