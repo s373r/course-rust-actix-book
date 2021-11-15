@@ -2,12 +2,15 @@
 
 Course link: https://actix.rs/book/actix
 
-Status: 🚧 `[In Progress]`
+Status: ✅*
+
+(* - Some pages are under construction, need to come back a bit later)
 
 ### Index legend
 
 - 📝 - a link to a book page
 - ✏️ - a link to an `.rs` file (code)
+- 👷 - a page under construction in the course
 - 🚧 - not finished
 
 ## Index
@@ -18,11 +21,11 @@ Status: 🚧 `[In Progress]`
 - [✏️ 4. Context](04_context/src/main.rs)
 - [✏️ 5. Arbiter](05_arbiter/src/main.rs)
 - [✏️ 6. SyncArbiter](06_sync_arbiter/src/main.rs)
-- 🚧 7. Stream
-- 🚧 8. IO helpers
-- 🚧 9. Supervisor
-- 🚧 10. Registry
-- 🚧 11. Helper actors
+- 👷 7. Stream
+- 👷 8. IO helpers
+- 👷 9. Supervisor
+- 👷 10. Registry
+- 👷 11. Helper actors
 
 ## Notes
 
