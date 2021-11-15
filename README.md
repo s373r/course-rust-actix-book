@@ -17,7 +17,7 @@ Status: 🚧 `[In Progress]`
 - [✏️ 3. Address](03_address/src/main.rs)
 - [✏️ 4. Context](04_context/src/main.rs)
 - [✏️ 5. Arbiter](05_arbiter/src/main.rs)
-- 🚧 6. SyncArbiter
+- [✏️ 6. SyncArbiter](06_sync_arbiter/src/main.rs)
 - 🚧 7. Stream
 - 🚧 8. IO helpers
 - 🚧 9. Supervisor
